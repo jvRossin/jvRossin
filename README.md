@@ -1,6 +1,5 @@
-<p>
-  
-Greetings👋, I'm **Rossin** an enthusiastic and ambitious full stack developer. I specialize in Python and Design. I love networking, participating in new communities and adding value ✨
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
+I'm **Rossin** an enthusiastic and ambitious full stack developer. I specialize in Python and Design. I love networking, participating in new communities and adding value ✨
 
 <div>
 <details>
