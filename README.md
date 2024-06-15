@@ -24,6 +24,8 @@ I'm **Rossin**, an ambitious full-stack developer specializing in Python and Des
 
 ## 🔥 Github Stats
 
+<img align="right" width="48%" src="https://i.imgur.com/tfOWsel.png"/>
+
 <div>
   <a href="https://github.com/jvRossin">
   <center>
