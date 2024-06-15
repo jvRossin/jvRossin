@@ -1,3 +1,8 @@
+<a><img src="https://i.imgur.com/BOBbCdf.png" width="100%" height="auto"/></a>
+<p align="center">
+  <a href="https://discord.gg/axqNCkQJZD" alt="Join our community"><img width="356px" src="https://i.imgur.com/lmVP2R9.png"/></a>
+</p>
+
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> Hi there
 I'm **Rossin**, an ambitious full-stack developer specializing in Python and Design. I'm currently studying other languages too. I love networking, participating in new communities and adding value ✨
 
