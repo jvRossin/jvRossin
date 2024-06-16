@@ -6,7 +6,7 @@
 -->
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> Hi there
-I'm **Rossin**, an ambitious full-stack developer specializing in Python and Design. I'm currently studying other languages too. I love networking, participating in new communities and adding value ✨
+I'm **Rossin**, an ambitious back-end developer specializing in Python and Design. I'm currently studying other languages too. I love networking, participating in new communities and adding value ✨
 
 <div>
 <details>
