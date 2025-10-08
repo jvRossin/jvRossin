@@ -40,6 +40,6 @@ I'm **Rossin**, an ambitious back-end developer specializing in Python and Desig
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mongodb,js,html,css,java,git,discord,bots,obsidian,ps,pr"/>
+    <img src="https://skillicons.dev/icons?i=py,mongodb,js,html,css,java,git,bots,obsidian,ps,pr"/>
   </a>
 </p>
